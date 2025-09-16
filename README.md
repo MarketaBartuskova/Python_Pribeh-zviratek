@@ -8,7 +8,7 @@ Uživatel klikáním na zvířátka postupně odhaluje příběh o tom, jak se f
 ***Součástí repozitáře je:***
 - `README.md` – popis projektu, dokumentace  
 - `main.py` – hlavní program s příběhem  
-- `*.gif` – obrázky zvířátek použitá v programu (kráva, pes, kočka, kohout, slepice, králík, prase)  
+- `gifs/` – složka s obrázky zvířátek použitá v programu (kráva, pes, kočka, kohout, slepice, králík, prase)  
 - `images/` – složka se screenshoty ukazující průběh programu  
 
 ---
@@ -32,10 +32,10 @@ Uživatel klikáním na zvířátka postupně odhaluje příběh o tom, jak se f
 
 ***Ukázka aplikace:***
 
-[Úvodní obrazovka](images/start_screen.png)  
+[Úvodní obrazovka](images/uvodni_strana.png)  
 
-[Kliknutí na správné zvíře](images/correct_click.png)  
+[Kliknutí na správné zvíře](images/klik_spravne_zvire.png)  
 
-[Kliknutí na špatné zvíře](images/wrong_click.png)  
+[Kliknutí na špatné zvíře](images/klik_spatne_zvire.png)  
 
-[Závěr příběhu](images/end_story.png)  
+[Závěr příběhu](images/zaver_pribehu.png)  
