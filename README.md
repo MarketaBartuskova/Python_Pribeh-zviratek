@@ -32,10 +32,10 @@ Uživatel klikáním na zvířátka postupně odhaluje příběh o tom, jak se f
 
 ***Ukázka aplikace:***
 
-[Úvodní obrazovka](images/uvodni_strana.png)  
+[Úvodní obrazovka](gifs/uvodni_strana.png)  
 
-[Kliknutí na správné zvíře](images/klik_spravne_zvire.png)  
+[Kliknutí na správné zvíře](gifs/klik_spravne_zvire.png)  
 
-[Kliknutí na špatné zvíře](images/klik_spatne_zvire.png)  
+[Kliknutí na špatné zvíře](gifs/klik_spatne_zvire.png)  
 
-[Závěr příběhu](images/zaver_pribehu.png)  
+[Závěr příběhu](gifs/zaver_pribehu.png)  
