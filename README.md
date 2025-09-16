@@ -9,7 +9,7 @@ Uživatel klikáním na zvířátka postupně odhaluje příběh o tom, jak se f
 - `README.md` – popis projektu, dokumentace  
 - `main.py` – hlavní program s příběhem  
 - `gifs/` – složka s obrázky zvířátek použitá v programu (kráva, pes, kočka, kohout, slepice, králík, prase)  
-- `images/` – složka se screenshoty ukazující průběh programu  
+- `screenshots/` – složka se screenshoty ukazující průběh programu  
 
 ---
 
